@@ -9,7 +9,6 @@ The OLX Clone project is a front-end web application that replicates the visual 
 ## Features
 - Replication of the OLX user interface
 - Dummy content to mimic the appearance of a real OLX listings page, search functionality, etc.
-- Responsive design for seamless viewing on various devices
 - Practice project for front-end development skills
 
 ## Technologies Used
