@@ -1,4 +1,4 @@
-# OLX Clone (Without Functionality)
+# OLX Clone 
 
 ## Live Demo
 https://the-olx-clone.netlify.app/
